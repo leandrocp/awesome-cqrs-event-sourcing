@@ -9,6 +9,41 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
 - [CQRS & Event Sourcing. Talk by The Guild](https://speakerdeck.com/theguildconf/cqrs-and-event-sourcing)
 
+## CQRS
+
+- [CQRS by Martin Fowler](http://martinfowler.com/bliki/CQRS.html)
+- [Command/Query Responsibility Segregation](https://gnugat.github.io/2015/08/25/cqrs.html)
+- [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
+- [CQRS Journey](http://cqrsjourney.github.io/)
+- []()
+- []()
+- []()
+- [Edument](http://cqrs.nu/)
+
+## Event Sourcing
+
+- [Event Sourcing by Martin Fowler](http://martinfowler.com/eaaDev/EventSourcing.html)
+- [Event sourcing revisited](https://lostechies.com/gabrielschenker/2015/05/26/event-sourcing-revisited/)
+- [Event Sourcing applied – the Aggregate](https://lostechies.com/gabrielschenker/2015/06/06/event-sourcing-applied-the-aggregate/)
+- [Event-sourcing, Part I](http://karmajunkie.com/blog/2012/05/05/event-sourcing/)
+- [Event sourcing for the rest of us](http://tojans.me/blog/2013/07/28/event-sourcing-for-the-rest-of-us/)
+- [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/)
+- [Entry-level, synchonous & transactional event sourcing](https://softwaremill.com/entry-level-event-sourcing/)
+- [Event Sourcing vs Command Sourcing](http://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
+
+## Domain Events
+
+- [Domain Event by Martin Fowler](http://www.martinfowler.com/eaaDev/DomainEvent.html)
+- [Domain Event by Mathias Verraes](http://verraes.net/2014/11/domain-events/)
+
+## REST vs CQRS
+
+- [REST API Design - Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+- [Exposing CQRS Through a RESTful API](https://www.infoq.com/articles/rest-api-on-cqrs)
+- [Reconciling ReST, CQRS and Event Sourcing](http://graemef.com/blog/2012/09/02/Reconciling-ReST-and-CQRS/)
+- [CQRS with Elixir and Phoenix](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
+- [Should CQRS services be RESTful?](https://groups.google.com/forum/#!topic/dddcqrs/YdTAIcGMXFI%5B1-25%5D)
+
 ## Talks (Slides)
 
 - [Event sourcing in practice](http://ookami86.github.io/event-sourcing-in-practice/#title.md)
@@ -33,23 +68,12 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Examples
 
+- [Simple CQRS example](https://github.com/gregoryyoung/m-r)
+- [Microsoft patterns & pratices CQRS Journey sample application](https://github.com/mspnp/cqrs-journey)
 - [Broadway](http://labs.qandidate.com/blog/2014/08/26/broadway-our-cqrs-es-framework-open-sourced/)
 - [Broadway Examples](https://github.com/qandidate-labs/broadway/tree/master/examples)
 - [Buttercup.Protects](http://buttercup-php.github.io/protects/)
 - [EventCentric.Core](https://github.com/event-centric/EventCentric.Core)
-
-## Domain Events
-
-- [Domain Event by Martin Fowler](http://www.martinfowler.com/eaaDev/DomainEvent.html)
-- [Domain Event by Mathias Verraes](http://verraes.net/2014/11/domain-events/)
-
-## REST vs CQRS
-
-- [REST API Design - Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
-- [Exposing CQRS Through a RESTful API](https://www.infoq.com/articles/rest-api-on-cqrs)
-- [Reconciling ReST, CQRS and Event Sourcing](http://graemef.com/blog/2012/09/02/Reconciling-ReST-and-CQRS/)
-- [CQRS with Elixir and Phoenix](http://jfcloutier.github.io/jekyll/update/2015/11/04/cqrs_elixir_phoenix.html)
-- [Should CQRS services be RESTful?](https://groups.google.com/forum/#!topic/dddcqrs/YdTAIcGMXFI%5B1-25%5D)
 
 ## Tools
 
@@ -59,6 +83,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Books
 
 - [Exploring CQRS and Event Sourcing](https://www.microsoft.com/en-us/download/details.aspx?id=34774)
+- [Domain-Driven Design Distilled](http://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 
 ## Twitter
 
@@ -73,6 +98,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [CQRS & Event Sourcing by Daniel Whittaker](http://danielwhittaker.me/)
 - [Software Design by Rinat Abdullin](https://abdullin.com/)
 - [Think Before Coding by Jérémie Chassaing](http://thinkbeforecoding.com/)
+- [Konrad Garus](http://squirrel.pl/blog/tag/cqrs/)
 
 ## Podcasts
 
