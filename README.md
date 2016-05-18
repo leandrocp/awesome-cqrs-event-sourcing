@@ -113,3 +113,11 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - [DDD/CQRS](https://groups.google.com/forum/#!forum/dddcqrs)
 - [DDDinPHP](https://groups.google.com/forum/#!forum/dddinphp)
+
+## Events
+
+- [Domain-Driven Design Europe](http://dddeurope.com/2017/)
+
+## See Also
+
+- [awesome-ddd](https://github.com/wkjagt/awesome-ddd)
