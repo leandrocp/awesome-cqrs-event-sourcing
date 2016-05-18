@@ -63,6 +63,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Building Microservices with Event Sourcing and CQRS](https://www.infoq.com/presentations/microservices-event-sourcing-cqrs)
 - [GeeCON 2014: Sandro Mancuso - Crafted Design](https://vimeo.com/101106002)
 - [Skills Matter](https://skillsmatter.com/)
+- [YOW! Nights March 2016: Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU)
 
 ## Examples
 
