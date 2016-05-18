@@ -112,12 +112,6 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [DDD/CQRS](https://groups.google.com/forum/#!forum/dddcqrs)
 - [DDDinPHP](https://groups.google.com/forum/#!forum/dddinphp)
 
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [@leandrocp](https://github.com/leandrocp) has waived all copyright and related or neighboring rights to this work.
-
 ## Discussions
 
 - [DDD/CQRS/ES/NoSQL and functional programming](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
@@ -128,6 +122,12 @@ To the extent possible under law, [@leandrocp](https://github.com/leandrocp) has
 
 - [Domain-Driven Design Europe](http://dddeurope.com/2017/)
 
-## See Also
+## More awesome
 
 - [awesome-ddd](https://github.com/wkjagt/awesome-ddd)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [@leandrocp](https://github.com/leandrocp) has waived all copyright and related or neighboring rights to this work.
