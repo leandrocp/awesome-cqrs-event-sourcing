@@ -82,3 +82,8 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - [StackOverflow CQRS](http://stackoverflow.com/questions/tagged/cqrs)
 - [StackOverflow Event Sourcing](http://stackoverflow.com/questions/tagged/event-sourcing)
+
+## Groups
+
+- [DDD/CQRS](https://groups.google.com/forum/#!forum/dddcqrs)
+- [DDDinPHP](https://groups.google.com/forum/#!forum/dddinphp)
