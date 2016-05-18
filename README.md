@@ -15,9 +15,6 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Command/Query Responsibility Segregation](https://gnugat.github.io/2015/08/25/cqrs.html)
 - [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/)
 - [CQRS Journey](http://cqrsjourney.github.io/)
-- []()
-- []()
-- []()
 - [Edument](http://cqrs.nu/)
 
 ## Event Sourcing
@@ -30,13 +27,14 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/)
 - [Entry-level, synchonous & transactional event sourcing](https://softwaremill.com/entry-level-event-sourcing/)
 - [Event Sourcing vs Command Sourcing](http://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
+- [A Whole System Based on Event Sourcing is an Anti-Pattern](https://www.infoq.com/news/2016/04/event-sourcing-anti-pattern)
 
 ## Domain Events
 
 - [Domain Event by Martin Fowler](http://www.martinfowler.com/eaaDev/DomainEvent.html)
 - [Domain Event by Mathias Verraes](http://verraes.net/2014/11/domain-events/)
 
-## REST vs CQRS
+## REST and CQRS
 
 - [REST API Design - Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
 - [Exposing CQRS Through a RESTful API](https://www.infoq.com/articles/rest-api-on-cqrs)
@@ -113,6 +111,12 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - [DDD/CQRS](https://groups.google.com/forum/#!forum/dddcqrs)
 - [DDDinPHP](https://groups.google.com/forum/#!forum/dddinphp)
+
+## Discussions
+
+- [DDD/CQRS/ES/NoSQL and functional programming](http://elixirforum.com/t/ddd-cqrs-es-nosql-and-functional-programming/519)
+- [Acting like I don't get the message :-/](https://groups.google.com/d/msg/dddcqrs/5LllWF5ZVLw/TlJ86khgTaYJ)
+- [Achieving consistency in CQRS with linear event store](https://www.reddit.com/r/programming/comments/3l0hp1/achieving_consistency_in_cqrs_with_linear_event/)
 
 ## Events
 
