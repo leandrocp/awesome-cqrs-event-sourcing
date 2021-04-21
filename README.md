@@ -88,6 +88,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Commanded](https://hex.pm/packages/commanded) - Elixir CQRS/ES library with support for EventStoreDB
 - [Equinox](https://github.com/jet/equinox) - .NET Event Sourcing library with CosmosDB, EventStoreDB, SqlStreamStore and integration test backends.
 - [Propulsion](https://github.com/jet/propulsion) - .NET event stream projection and scheduling platform with EventStore, CosmosDb, Equinox and Kafka integrations
+- [Memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard.
 
 ## Books
 
