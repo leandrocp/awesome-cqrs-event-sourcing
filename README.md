@@ -73,6 +73,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Broadway Examples](https://github.com/qandidate-labs/broadway/tree/master/examples)
 - [Buttercup.Protects](http://buttercup-php.github.io/protects/)
 - [EventCentric.Core](https://github.com/event-centric/EventCentric.Core)
+- [A simple event sourcing example with snapshots using lambda and dynamodb](https://theburningmonk.com/2019/08/a-simple-event-sourcing-example-with-snapshots-using-lambda-and-dynamodb/)
 
 ## Event Stores
 
@@ -82,6 +83,8 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Message DB](http://docs.eventide-project.org/user-guide/message-db/) - PostgreSQL
 - [Pravega](https://pravega.io) - Java implementation (CNCF).
 - [SQLStreamStore](https://github.com/SqlStreamStore/) - An event/stream store library in .NET with support for PostgreSQL/SQL Server/MySQL etc.
+- [DynamoDB EventStore](https://github.com/bakerface/dynamodb-event-store#readme) - An event store implementation on top of Amazon DynamoDB (JavaScript).
+- [DynamoDB EventStore](https://github.com/domagojk/beenion/blob/rater/databases/eventstore/dynamoDbEventStore.ts) - Another event store implementation on top of Amazon DynamoDB (TypeScript).
 
 ## Libraries/Frameworks
 
