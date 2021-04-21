@@ -97,7 +97,9 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Books
 
 - [Exploring CQRS and Event Sourcing](https://www.microsoft.com/en-us/download/details.aspx?id=34774)
-- [Domain-Driven Design Distilled](http://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+- [Domain-Driven Design Distilled](http://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - Vaughn Vernon
+- [DDD Reference](https://www.domainlanguage.com/ddd/reference/) - A summary of the patterns and definitions of DDD. Eric Evans
+- [Versioning in an Event Sourced System](https://leanpub.com/esversioning) - Greg Young
 
 ## Twitter
 
