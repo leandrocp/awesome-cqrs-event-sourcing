@@ -127,6 +127,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - [DDD/CQRS](https://groups.google.com/forum/#!forum/dddcqrs)
 - [DDDinPHP](https://groups.google.com/forum/#!forum/dddinphp)
+- [ddd-cqrs-es/slack-community](https://github.com/ddd-cqrs-es/slack-community)
 
 ## Discussions
 
