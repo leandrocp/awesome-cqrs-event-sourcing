@@ -85,6 +85,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [SQLStreamStore](https://github.com/SqlStreamStore/) - An event/stream store library in .NET with support for PostgreSQL/SQL Server/MySQL etc.
 - [DynamoDB EventStore](https://github.com/bakerface/dynamodb-event-store#readme) - An event store implementation on top of Amazon DynamoDB (JavaScript).
 - [DynamoDB EventStore](https://github.com/domagojk/beenion/blob/rater/databases/eventstore/dynamoDbEventStore.ts) - Another event store implementation on top of Amazon DynamoDB (TypeScript).
+- [DynamoDB EventStore (article)](https://www.agileand.me/dynamodb-event-sourcing-an-aws-architecture.html) - Article on an event store on DynamoDB
 
 ## Libraries/Frameworks
 
