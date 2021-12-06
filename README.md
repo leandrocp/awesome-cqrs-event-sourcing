@@ -23,7 +23,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Event sourcing revisited](https://lostechies.com/gabrielschenker/2015/05/26/event-sourcing-revisited/)
 - [Event Sourcing applied – the Aggregate](https://lostechies.com/gabrielschenker/2015/06/06/event-sourcing-applied-the-aggregate/)
 - [Event-sourcing, Part I](http://karmajunkie.com/blog/2012/05/05/event-sourcing/)
-- [Event sourcing for the rest of us](http://tojans.me/blog/2013/07/28/event-sourcing-for-the-rest-of-us/)
+- [Event sourcing for the rest of us](https://tojans.me/posts/event-sourcing-for-the-rest-of-us/)
 - [Achieving Consistency in CQRS with Linear Event Store](http://squirrel.pl/blog/2015/09/14/achieving-consistency-in-cqrs-with-linear-event-store/)
 - [Entry-level, synchonous & transactional event sourcing](https://softwaremill.com/entry-level-event-sourcing/)
 - [Event Sourcing vs Command Sourcing](http://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
