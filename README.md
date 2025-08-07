@@ -100,6 +100,10 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
 - [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
 
+## Tools
+
+- [Datomic Essentials](https://github.com/humorless/datomic-essentials)
+
 ## Books
 
 - [Exploring CQRS and Event Sourcing](https://www.microsoft.com/en-us/download/details.aspx?id=34774)
