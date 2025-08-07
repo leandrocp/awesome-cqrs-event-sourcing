@@ -8,6 +8,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 - [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
 - [CQRS & Event Sourcing. Talk by The Guild](https://speakerdeck.com/theguildconf/cqrs-and-event-sourcing)
+- [CQRS, Event Sourcing & co. – Rethink How You Build Software](https://www.cqrs.com/)
 
 ## CQRS
 
@@ -86,6 +87,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [DynamoDB EventStore](https://github.com/bakerface/dynamodb-event-store#readme) - An event store implementation on top of Amazon DynamoDB (JavaScript).
 - [DynamoDB EventStore](https://github.com/domagojk/beenion/blob/rater/databases/eventstore/dynamoDbEventStore.ts) - Another event store implementation on top of Amazon DynamoDB (TypeScript).
 - [DynamoDB EventStore (article)](https://www.agileand.me/dynamodb-event-sourcing-an-aws-architecture.html) - Article on an event store on DynamoDB
+- [EventSourcingDB](https://www.eventsourcingdb.io) – A database specifically built for event sourcing
 
 ## Libraries/Frameworks
 
@@ -96,6 +98,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Propulsion](https://github.com/jet/propulsion) - .NET event stream projection and scheduling platform with EventStore, CosmosDb, Equinox and Kafka integrations
 - [Memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard.
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
+- [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
 
 ## Books
 
