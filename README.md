@@ -102,10 +102,13 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard.
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
 - [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
+- [CQRSKit](https://github.com/patriceckhart/cqrskit) - A TypeScript CQRS and Event Sourcing framework with pluggable database adapters
 
 ## Tools
 
 - [Datomic Essentials](https://github.com/humorless/datomic-essentials)
+- [Genesis DB MCP Server](https://github.com/genesisdb-io/genesisdb-io-mcp-server)
+- [Genesis DB LocalStack for Mac](https://localstack.genesisdb.io)
 
 ## Books
 
