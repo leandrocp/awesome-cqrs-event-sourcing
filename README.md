@@ -80,7 +80,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Event Stores
 
-- [EventStoreDB](http://geteventstore.com/) - The stream database built for Event Sourcing
+- [KurrentDB](http://geteventstore.com/) - The stream database built for Event Sourcing
 - [EventStore](https://github.com/slashdotdash/eventstore) - An event store using PostgreSQL for persistence written in Elixir
 - [Marten DB](https://martendb.io) - .NET Transactional Document DB and Event Store on PostgreSQL.
 - [Message DB](http://docs.eventide-project.org/user-guide/message-db/) - PostgreSQL
@@ -95,10 +95,10 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Libraries/Frameworks
 
-- [Commanded](https://hex.pm/packages/commanded) - Elixir CQRS/ES library with support for EventStoreDB
-- [Equinox](https://github.com/jet/equinox) - .NET Event Sourcing library with CosmosDB, EventStoreDB, SqlStreamStore and integration test backends.
+- [Commanded](https://hex.pm/packages/commanded) - Elixir CQRS/ES library with support for KurrentDB
+- [Equinox](https://github.com/jet/equinox) - .NET Event Sourcing library with CosmosDB, KurrentDB, SqlStreamStore and integration test backends.
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET.
-- [Eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET (EventStoreDB)
+- [Eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET (KurrentDB)
 - [Propulsion](https://github.com/jet/propulsion) - .NET event stream projection and scheduling platform with EventStore, CosmosDb, Equinox and Kafka integrations
 - [Memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard.
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
