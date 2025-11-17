@@ -80,7 +80,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 
 ## Event Stores
 
-- [KurrentDB](http://geteventstore.com/) - The stream database built for Event Sourcing
+- [KurrentDB](https://www.kurrent.io) - Database that's engineered for modern software applications and event-driven architectures (previously EventStoreDB)
 - [EventStore](https://github.com/slashdotdash/eventstore) - An event store using PostgreSQL for persistence written in Elixir
 - [Marten DB](https://martendb.io) - .NET Transactional Document DB and Event Store on PostgreSQL.
 - [Message DB](http://docs.eventide-project.org/user-guide/message-db/) - PostgreSQL
