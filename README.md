@@ -30,6 +30,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Event Sourcing vs Command Sourcing](http://thinkbeforecoding.com/post/2013/07/28/Event-Sourcing-vs-Command-Sourcing)
 - [A Whole System Based on Event Sourcing is an Anti-Pattern](https://www.infoq.com/news/2016/04/event-sourcing-anti-pattern)
 - [Event Sourcing and AI](https://www.eventsourcing.ai/)
+- [Start mastering event sourcing](https://www.eventsourcing.dev/)
 
 ## Domain Events
 
