@@ -132,6 +132,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Software Design by Rinat Abdullin](https://abdullin.com/)
 - [Think Before Coding by Jérémie Chassaing](http://thinkbeforecoding.com/)
 - [Konrad Garus](http://squirrel.pl/blog/tag/cqrs/)
+- [EventSourcingDB Blog](https://docs.eventsourcingdb.io/blog/)
 
 ## Podcasts
 
