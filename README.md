@@ -104,6 +104,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
 - [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
 - [CQRSKit](https://github.com/patriceckhart/cqrskit) - A TypeScript CQRS and Event Sourcing framework with pluggable database adapters
+- [python-cqrs](https://github.com/vadikko2/python-cqrs) - Python CQRS framework with Transaction Outbox, Saga orchestration, and Mediator pattern support.
 
 ## Tools
 
