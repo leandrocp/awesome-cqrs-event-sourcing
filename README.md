@@ -77,6 +77,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Buttercup.Protects](http://buttercup-php.github.io/protects/)
 - [EventCentric.Core](https://github.com/event-centric/EventCentric.Core)
 - [A simple event sourcing example with snapshots using lambda and dynamodb](https://theburningmonk.com/2019/08/a-simple-event-sourcing-example-with-snapshots-using-lambda-and-dynamodb/)
+- [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) - Production iGaming/casino engine in Kotlin/Ktor with a CQRS bus, auto-discovered command and query handlers, and a sealed domain-event hierarchy published to RabbitMQ after commit.
 
 ## Event Stores
 
