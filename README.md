@@ -102,6 +102,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [Eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET (KurrentDB)
 - [Propulsion](https://github.com/jet/propulsion) - .NET event stream projection and scheduling platform with EventStore, CosmosDb, Equinox and Kafka integrations
 - [Memstate](https://github.com/DevrexLabs/memstate) - In-memory event-sourced ACID-transactional distributed object graph engine for .NET Standard.
+- [Stratara](https://github.com/yesbert/Stratara) - CQRS and Event Sourcing for .NET with tamper-evident event streams and tenant-aware encryption built in.
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
 - [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
 - [CQRSKit](https://github.com/patriceckhart/cqrskit) - A TypeScript CQRS and Event Sourcing framework with pluggable database adapters
