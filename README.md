@@ -108,7 +108,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [CQRSKit](https://github.com/patriceckhart/cqrskit) - A TypeScript CQRS and Event Sourcing framework with pluggable database adapters
 - [python-cqrs](https://github.com/vadikko2/python-cqrs) - Python CQRS framework with Transaction Outbox, Saga orchestration, and Mediator pattern support.
 - [nestjs-hexagonal](https://github.com/Softtor/nestjs-hexagonal) - Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns.
-- [Sharino](https://www.sharpino.eu) - F# Opinionated Event Sourcing library with PostgreSQL.
+- [Sharpino](https://www.sharpino.eu) - Opinionated F# Event library using PostgreSQL.
 
 ## Tools
 
