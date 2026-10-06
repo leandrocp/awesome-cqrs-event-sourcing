@@ -93,6 +93,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [EventSourcingDB](https://www.eventsourcingdb.io) – A database specifically built for event sourcing
 - [The Definitive Event Sourcing Database Guide](https://www.eventsourcingdatabase.com) – Choosing the right database as an event store
 - [GenesisDB](https://www.genesisdb.io) - A GDPR-ready event sourcing database engine
+- [Cratis Chronicle](https://github.com/Cratis/Chronicle) - Event sourcing database and runtime for .NET with MongoDB, PostgreSQL, SQL Server and SQLite storage.
 
 ## Libraries/Frameworks
 
@@ -109,6 +110,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [python-cqrs](https://github.com/vadikko2/python-cqrs) - Python CQRS framework with Transaction Outbox, Saga orchestration, and Mediator pattern support.
 - [nestjs-hexagonal](https://github.com/Softtor/nestjs-hexagonal) - Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns.
 - [Sharpino](https://www.sharpino.eu) - Opinionated F# Event library/framework using PostgreSQL as an event store.
+- [Cratis Arc](https://github.com/Cratis/Arc) - Opinionated CQRS framework for ASP.NET Core with commands, queries and generated TypeScript proxies.
 
 ## Tools
 
