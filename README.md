@@ -92,7 +92,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [DynamoDB EventStore (article)](https://www.agileand.me/dynamodb-event-sourcing-an-aws-architecture.html) - Article on an event store on DynamoDB
 - [EventSourcingDB](https://www.eventsourcingdb.io) – A database specifically built for event sourcing
 - [The Definitive Event Sourcing Database Guide](https://www.eventsourcingdatabase.com) – Choosing the right database as an event store
-- [GenesisDB](https://www.genesisdb.io) - A GDPR-ready event sourcing database engine
+- [GenesisDB](https://www.genesisdb.io) - A open source, GDPR-ready event sourcing database engine
 - [Cratis Chronicle](https://github.com/Cratis/Chronicle) - Event sourcing database and runtime for .NET with MongoDB, PostgreSQL, SQL Server and SQLite storage.
 
 ## Libraries/Frameworks
@@ -115,8 +115,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 ## Tools
 
 - [Datomic Essentials](https://github.com/humorless/datomic-essentials)
-- [GenesisDB MCP Server](https://github.com/genesisdb-io/genesisdb-io-mcp-server)
-- [GenesisDB LocalStack for Mac](https://localstack.genesisdb.io)
+- [GenesisDB Orchestrator](https://github.com/genesisdb-io/genesisdb-orchestrator)
 
 ## Books
 
