@@ -107,6 +107,7 @@ Inspired by [all the other awesome things](https://github.com/bayandin/awesome-a
 - [castore](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing on your project
 - [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
 - [CQRSKit](https://github.com/patriceckhart/cqrskit) - A TypeScript CQRS and Event Sourcing framework with pluggable database adapters
+- [Bounda](https://github.com/bounda-dev/bounda) - Event sourcing and CQRS for TypeScript without the ceremony.
 - [python-cqrs](https://github.com/vadikko2/python-cqrs) - Python CQRS framework with Transaction Outbox, Saga orchestration, and Mediator pattern support.
 - [nestjs-hexagonal](https://github.com/Softtor/nestjs-hexagonal) - Claude Code plugin for building NestJS bounded contexts with Hexagonal Architecture, DDD, CQRS, and event-driven patterns.
 - [Sharpino](https://www.sharpino.eu) - Opinionated F# Event library/framework using PostgreSQL as an event store.
